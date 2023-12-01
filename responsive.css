@@ -1,0 +1,655 @@
+@media(max-width:1300px) {
+    .menuBar li a {
+        padding: 0px 5px;
+    }
+}
+
+@media(max-width:1230px) {
+    .newLaunchCard h1 {
+        font-size: 22px;
+    }
+    .newLaunchCard h3 {
+        font-size: 18px;
+    }
+    .newLaunchCard h4 {
+        font-size: 16px;
+    }
+    .newLaunchCard h5 {
+        font-size: 14px;
+    }
+    .areaDetailsContainer {
+        height: 150px;
+        width: 260px;
+    }
+    .areaDetailsContainer table {
+        height: 150px;
+        width: 260px;
+    }
+    .completionbtn {
+        width: 260px;
+        font-size: 14px;
+        height: 32px;
+    }
+    .newLaunchCard p {
+        font-size: 16px;
+    }
+    .newLaunchCard h2 span {
+        font-size: 21px;
+    }
+    .newLaunchCard h2 {
+        font-size: 21px;
+    }
+    .angledbtn {
+        margin-top: 8px;
+    }
+    .newLaunchCard {
+        height: 490px;
+        width: 280px;
+    }
+    .textContent .content {
+        font-size: 15px;
+    }
+}
+
+@media(max-width:1170px) {
+    .btnRight {
+        font-size: 12px;
+    }
+    /* .menuBar li a {
+        font-size: 15px;
+    } */
+}
+
+@media(max-width:1150px) {
+    .textContent .content {
+        padding: 10px 0px;
+    }
+    .newLaunchCard h3 {
+        font-size: 17px;
+    }
+    .newLaunchCard h1 {
+        margin-top: 8px;
+        font-size: 21px;
+    }
+    .newLaunchCard h4 {
+        font-size: 15px;
+        margin-top: 4px;
+    }
+    .newLaunchCard h5 {
+        font-size: 13px;
+        margin-top: 4px;
+    }
+    .areaDetailsContainer {
+        height: 140px;
+        width: 240px;
+    }
+    .areaDetailsContainer table {
+        height: 140px;
+        width: 240px;
+    }
+    .completionbtn {
+        width: 240px;
+        font-size: 13px;
+    }
+    .newLaunchCard p {
+        font-size: 15px;
+    }
+    .newLaunchCard h2 span {
+        font-size: 20px;
+    }
+    .newLaunchCard h2 {
+        font-size: 16px;
+    }
+    .newLaunchCard {
+        height: 460px;
+        width: 255px;
+    }
+}
+
+@media(max-width:1080px) {
+    .textContent .subHeading {
+        font-size: 31px;
+        margin-top: 10px;
+    }
+    .textContent .content {
+        font-size: 14px;
+    }
+    .newLaunchCard {
+        padding: 10px;
+    }
+    .newLaunchCard h3 {
+        font-size: 16px;
+    }
+    .newLaunchCard h1 {
+        margin-top: 7px;
+        font-size: 20px;
+    }
+    .newLaunchCard h4 {
+        font-size: 14px;
+    }
+    .newLaunchCard h5 {
+        font-size: 12px;
+    }
+    .areaDetailsContainer {
+        height: 130px;
+        width: 230px;
+        padding: 2.5px;
+    }
+    .areaDetailsContainer table {
+        height: 130px;
+        width: 230px;
+    }
+    .headSmall {
+        font-size: 14px;
+    }
+    .headLarge {
+        font-size: 14px;
+    }
+    .completionbtn {
+        width: 230px;
+        margin-top: 4px;
+    }
+    .newLaunchCard p {
+        font-size: 14.5px;
+    }
+    .newLaunchCard h2 span {
+        font-size: 19px;
+    }
+    .newLaunchCard h2 {
+        font-size: 15px;
+    }
+    .newLaunchCard {
+        height: 435px;
+        width: 240px;
+    }
+}
+
+@media(max-width:1075px) {
+    .textContent .subHeading {
+        font-size: 26px;
+    }
+    .textContent .content {
+        font-size: 12px;
+    }
+    .overviewHeading {
+        margin-top: -145px;
+    }
+}
+
+@media(max-width:1020px) {
+    .menuBar li a {
+        font-size: 14px;
+        padding: 0px 4px;
+    }
+    .newLaunchCard h3 {
+        font-size: 15px;
+    }
+    .newLaunchCard h1 {
+        margin-top: 6px;
+        font-size: 19px;
+    }
+    .newLaunchCard h4 {
+        font-size: 13px;
+    }
+    .newLaunchCard h5 {
+        margin-top: 3px;
+    }
+    .areaDetailsContainer {
+        height: 120px;
+        width: 220px
+    }
+    .areaDetailsContainer table {
+        height: 120px;
+        width: 220px;
+    }
+    .completionbtn {
+        width: 220px;
+    }
+    .newLaunchCard p {
+        font-size: 13px;
+    }
+    .newLaunchCard h2 span {
+        font-size: 18px;
+    }
+    .newLaunchCard h2 {
+        font-size: 14px;
+    }
+    .angledbtn {
+        margin-top: 3px;
+    }
+    .newLaunchCard {
+        height: 410px;
+        width: 230px;
+    }
+    .overviewHeading {
+        margin-top: -170px;
+    }
+}
+
+@media(max-width:1015px) {
+    .btnRight {
+        font-size: 11px;
+    }
+    .pricingTable th {
+        padding: 10px 0px 10px 5px;
+    }
+}
+
+@media(max-width:992px) {
+    .rightPart {
+        display: none;
+    }
+    .leftPart {
+        width: 100%;
+    }
+    .navBar {
+        width: 100%;
+        height: 65px;
+    }
+    .navBar .logo {
+        height: 65px;
+        width: 135px;
+    }
+}
+
+.checkbtn {
+    color: #aaaaaa;
+    font-size: 25px;
+    margin-right: 30px;
+    padding: 7px 18px 4px 18px;
+    display: none;
+    border-radius: 1px;
+    border: 0.1px solid #aaaaaa80;
+}
+
+#check {
+    display: none;
+}
+
+@media (max-width:992px) {
+    .navLinks .menuBar {
+        /* background-color: white; */
+        background-color: white;
+        position: absolute;
+        right: 0px;
+        top: 53px;
+        flex-direction: column;
+        display: none;
+        height: 350px;
+        width: 100%;
+        /* border-top: 1px solid #c5c5c5; */
+    }
+
+    .menuBar li{
+        /* background-color: white; */
+        background-color: transparent;
+        /* background-color: khaki; */
+        height: 28%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-top: 1px solid rgba(128, 128, 128, 0.1);
+    }
+
+    .menuBar li:hover {
+        background-color: #eeeeee;
+        transition: all 0.3s ease;
+    }
+
+    .menuBar li a {
+        font-size: 16px;
+    }
+
+    .checkbtn {
+        display: block;
+    }
+
+    #check:checked~.navLinks ul {
+        transition: 0.5s linear;
+        display: flex;
+    }
+
+    header {
+        margin-top: 65px;
+    }
+
+    .newLaunchCard {
+        position: static;
+        width: 100%;
+        height: 450px;
+        padding: 0px;
+        border-radius: 0px;
+    }
+
+    .newLaunchCard h3 {
+        font-size: 16px;
+        background-color: #872b68;
+        color: white;
+        height: 28px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 400;
+    }
+
+    .newLaunchCard h1 {
+        font-size: 27px;
+        font-family: 'Varela Round', sans-serif;
+        font-weight: 600;
+    }
+
+    .newLaunchCard h4 {
+        font-size: 18px;
+        color: black;
+        font-weight: 400;
+    }
+
+    .newLaunchCard h5 {
+        font-size: 18px;
+        color: black;
+        font-weight: 400;
+        margin-top: 2px;
+    }
+
+    .areaDetailsContainer {
+        height: 120px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .areaDetailsContainer table{
+        height: 120px;
+        width: 60%;
+        padding: 5px;
+    }
+
+    .headSmall {
+        font-size: 13.6px;
+    }
+
+    .headLarge {
+        font-size: 13.7px;
+    }
+
+    .completionbtn {
+        width: 100%;
+    }
+
+    .newLaunchCard p {
+        font-size: 15px;
+        margin: 5px 0px;
+        width: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .newLaunchCard h2 {
+        font-size: 20px;
+    }
+
+    .newLaunchCard h2 span {
+        font-size: 27px;
+    }
+
+    .angledbtn {
+        width: 140px;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+    .newLaunchCard .smallestText {
+        position: static;
+    }
+
+    .newLaunchCard .smallestText p {
+        font-size: 14px;
+    }
+
+    .smallestText .smallestHead {
+        font-weight: 600;
+        font-family: 'Varela Round', sans-serif;
+    }
+
+    main {
+        padding-bottom: 40px;
+    }
+
+    main section {
+        width: 98%;
+        margin: 10px;
+    }
+
+    section {
+        flex-direction: column-reverse;
+    }
+
+    section .heading {
+        transform: rotate(0deg);
+        text-align: left;
+        width: 100%;
+
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    .overviewHeading {
+        margin-left: -50px;
+        margin-top: 0px;
+    }
+
+    .priceHeading {
+        margin-top: 0px;
+        margin-left: -10px;
+    }
+
+    .textContent .subHeading {
+        font-size: 25px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .textContent .subSubHeading {
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .textContent .content {
+        font-size: 16px;
+    }
+
+    .sectionBtn {
+        height: 35px;
+        width: 200px;
+    }
+
+    .priceContent {
+        align-items: flex-start;
+    }
+
+    .pricingTable .headRow {
+        display: none;
+    }
+
+    .pricingTable th,.pricingTable td {
+        margin-left: 0px;
+        color: #111;
+    }
+
+    .pricingTable,.pricingTable tbody,.pricingTable tr,.pricingTable td {
+        display: block;
+    }
+
+    .pricingTable th, .pricingTable td {
+        border: none;
+    }
+
+    .pricingTable {
+        height: 90%;
+        width: 60%;
+        text-align: center;
+        margin: 10px 0px;
+    }
+
+    .pricingTable tbody {
+        max-height: 400px;
+    }
+
+    .pricingTable tr{
+        padding: 10px 0px;
+        max-height: 180px;
+    }
+
+    .pricingTable td {
+        padding: 2px 0px;
+        max-height: 40px;
+    }
+
+    .pricingTable .priceType {
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    .pricingTable .priceAmount {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .contactBar {
+        display: block;
+        height: 40px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        background-color: #872b68;
+        color: white;
+
+        position: fixed;
+        bottom: 0px;
+    }
+
+    .contactBar i {
+        padding-right: 8px;
+        font-size: 18px;
+    }
+
+    .contactBtn {
+        border-right: 1px solid white;
+        height: 100%;
+        width: 100%;
+
+        font-size: 14px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media(max-width: 768px) {
+    .preRegister {
+        display: block;
+
+        height: auto;
+        width: 100%;
+
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-direction: column;
+
+        padding: 10px;
+
+        background-color: #d9d9d9;
+    }
+
+    .preRegister h3 {
+        font-size: 18px;
+        margin: 10px 0px;
+        font-weight: 600;
+        font-family: 'Varela Round', sans-serif;
+        text-shadow: 0 1px 3px #212529;
+        text-align: center;
+    }
+
+    .preRegister input {
+        font-size: 15px;
+        border: 1px solid #ced4da;
+        width: 100%;
+        font-weight: 400;
+        line-height: 1.5;
+        border-radius: 0px;
+        padding: 8px;
+        margin: 5px;
+    }
+
+    .preRegister input[type=text]:focus {
+        border: 2px solid #9696ff;
+    }
+
+    .preRegBtn{
+        height: 35px;
+        width: 160px;
+    }
+
+    .priceContent {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pricingTable {
+        width: 100%;
+    }
+
+    .pricingTableImgContainer {
+        width: 100%;
+    }
+
+    .pricingTableImg{
+        width: 100%;
+    }
+}
+
+@media(max-width:750px) {
+    .newLaunchCard h1 {
+        font-size: 24px;
+    }
+    .newLaunchCard h4 {
+        font-size: 16px;
+    }
+    .newLaunchCard h5 {
+        font-size: 16px;
+    }
+}
+
+@media(max-width:600px) {
+    .newLaunchCard h1 {
+        font-size: 20px;
+    }
+    .newLaunchCard h4 {
+        font-size: 14px;
+    }
+    .newLaunchCard h5 {
+        font-size: 14px;
+    }
+
+    section .heading {
+        font-size: 27px;
+    }
+
+    .textContent .subHeading {
+        font-size: 23px;
+    }
+
+    .textContent .subSubHeading {
+        font-size: 18px;
+    }
+}
